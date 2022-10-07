@@ -1,0 +1,1 @@
+# react_native_favorite_places
